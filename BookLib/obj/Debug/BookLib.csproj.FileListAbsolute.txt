@@ -1,0 +1,6 @@
+C:\Users\Dafna\Desktop\Sela College\OOP - Dmitry\Project\MyProject\MyLibrary\BookLib\bin\Debug\BookLib.dll
+C:\Users\Dafna\Desktop\Sela College\OOP - Dmitry\Project\MyProject\MyLibrary\BookLib\bin\Debug\BookLib.pdb
+C:\Users\Dafna\Desktop\Sela College\OOP - Dmitry\Project\MyProject\MyLibrary\BookLib\obj\Debug\BookLib.csproj.AssemblyReference.cache
+C:\Users\Dafna\Desktop\Sela College\OOP - Dmitry\Project\MyProject\MyLibrary\BookLib\obj\Debug\BookLib.csproj.CoreCompileInputs.cache
+C:\Users\Dafna\Desktop\Sela College\OOP - Dmitry\Project\MyProject\MyLibrary\BookLib\obj\Debug\BookLib.dll
+C:\Users\Dafna\Desktop\Sela College\OOP - Dmitry\Project\MyProject\MyLibrary\BookLib\obj\Debug\BookLib.pdb

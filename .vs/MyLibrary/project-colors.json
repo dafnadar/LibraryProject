@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d9e54275-e4fe-450e-9114-fb9bce3a5196": {
+      "ProjectGuid": "d9e54275-e4fe-450e-9114-fb9bce3a5196",
+      "DisplayName": "MyLibrary",
+      "ColorIndex": 0
+    },
+    "880691c1-ef82-4a20-8c93-118421d1081c": {
+      "ProjectGuid": "880691c1-ef82-4a20-8c93-118421d1081c",
+      "DisplayName": "BookLib",
+      "ColorIndex": 1
+    },
+    "ca32a936-9e3b-4343-a618-a26edf40d679": {
+      "ProjectGuid": "ca32a936-9e3b-4343-a618-a26edf40d679",
+      "DisplayName": "Logic",
+      "ColorIndex": 2
+    },
+    "8a5972b7-f5e9-487a-9e3a-ae27e8cd2718": {
+      "ProjectGuid": "8a5972b7-f5e9-487a-9e3a-ae27e8cd2718",
+      "DisplayName": "LogicTests",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

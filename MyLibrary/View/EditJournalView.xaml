@@ -1,0 +1,43 @@
+﻿<Window x:Class="MyLibrary.View.EditJournalView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyLibrary.View"
+        mc:Ignorable="d"
+        Title="EditJournalView" Height="450" Width="800"
+          DataContext="{Binding Source={StaticResource Locator}, Path=EditJournal}"
+>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Title:" Grid.Column="0"/>
+        <TextBlock Text="Price:" Grid.Row="1" Grid.Column="0"/>
+        <TextBlock Text="Subject:" Grid.Row="2" Grid.Column="0"/>
+        <TextBlock Text="Copies:" Grid.Row="3" Grid.Column="0"/>
+        <TextBlock Text="Sheet:" Grid.Row="4" Grid.Column="0"/>
+        <TextBlock Text="Print Date:" Grid.Row="5" Grid.Column="0"/>
+
+        <TextBox Text="" Grid.Column="1"/>
+        <TextBox Text="" Grid.Row="1" Grid.Column="1"/>
+        <TextBox Text="" Grid.Row="2" Grid.Column="1"/>
+        <TextBox Text="" Grid.Row="3" Grid.Column="1"/>
+        <TextBox Text="" Grid.Row="4" Grid.Column="1"/>
+        <TextBox Text="" Grid.Row="5" Grid.Column="1"/>
+
+        <Button Grid.Row="7" Content="Save" Command="{Binding SaveCommand}"/>
+
+    </Grid>
+</Window>
