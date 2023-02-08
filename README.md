@@ -1,7 +1,7 @@
 # LibraryProject
 An application for managing books, magazines, etc
 
-# System description
+# Description
 The application saves information about the various items and allows:<br/>
 
 * Search items <br/>
